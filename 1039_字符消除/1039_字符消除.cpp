@@ -3,9 +3,9 @@
 
 typedef enum 
 {
-	INIT,
-	SAME,
-	NOT_SAME
+	INIT,  //初始化状态，没有上一个字符
+	SAME,  //上一个字符是一个重复的字符
+	NOT_SAME //上一个字符是一个不重复的字符
 }STATUS;
 
 #define MAX_LEN 110
@@ -22,7 +22,7 @@ bool delDedupChar(char *strings)
 
 	for (i = 0; i < length; i++)
 	{
-		if (INIT == status)
+		if (INIT == status)  //处理第一个字符
 		{
 			pre = strings[i];
 			status = NOT_SAME;
