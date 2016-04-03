@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1039_字符消除", "1039_�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1148_2月29", "1148_2月29\1148_2月29.vcxproj", "{CEB01770-B0AF-4098-B37F-9F05EEDF7744}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1014_Trie树", "1014_Trie树\1014_Trie树.vcxproj", "{58A9944D-68E7-46C2-A25E-37413AD8CAFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -25,11 +27,18 @@ Global
 		{CEB01770-B0AF-4098-B37F-9F05EEDF7744}.Debug|x64.ActiveCfg = Debug|x64
 		{CEB01770-B0AF-4098-B37F-9F05EEDF7744}.Debug|x64.Build.0 = Debug|x64
 		{CEB01770-B0AF-4098-B37F-9F05EEDF7744}.Debug|x86.ActiveCfg = Debug|Win32
-		{CEB01770-B0AF-4098-B37F-9F05EEDF7744}.Debug|x86.Build.0 = Debug|Win32
 		{CEB01770-B0AF-4098-B37F-9F05EEDF7744}.Release|x64.ActiveCfg = Release|x64
 		{CEB01770-B0AF-4098-B37F-9F05EEDF7744}.Release|x64.Build.0 = Release|x64
 		{CEB01770-B0AF-4098-B37F-9F05EEDF7744}.Release|x86.ActiveCfg = Release|Win32
 		{CEB01770-B0AF-4098-B37F-9F05EEDF7744}.Release|x86.Build.0 = Release|Win32
+		{58A9944D-68E7-46C2-A25E-37413AD8CAFE}.Debug|x64.ActiveCfg = Debug|x64
+		{58A9944D-68E7-46C2-A25E-37413AD8CAFE}.Debug|x64.Build.0 = Debug|x64
+		{58A9944D-68E7-46C2-A25E-37413AD8CAFE}.Debug|x86.ActiveCfg = Debug|Win32
+		{58A9944D-68E7-46C2-A25E-37413AD8CAFE}.Debug|x86.Build.0 = Debug|Win32
+		{58A9944D-68E7-46C2-A25E-37413AD8CAFE}.Release|x64.ActiveCfg = Release|x64
+		{58A9944D-68E7-46C2-A25E-37413AD8CAFE}.Release|x64.Build.0 = Release|x64
+		{58A9944D-68E7-46C2-A25E-37413AD8CAFE}.Release|x86.ActiveCfg = Release|Win32
+		{58A9944D-68E7-46C2-A25E-37413AD8CAFE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
