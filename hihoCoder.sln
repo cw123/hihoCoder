@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1148_2月29", "1148_2月29\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1014_Trie树", "1014_Trie树\1014_Trie树.vcxproj", "{58A9944D-68E7-46C2-A25E-37413AD8CAFE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hiho93周_数论二·Eular质数筛法", "hiho93周_数论二·Eular质数筛法\hiho93周_数论二·Eular质数筛法.vcxproj", "{945CF87B-E2C6-48E6-A418-9F698CC3761E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -34,11 +36,18 @@ Global
 		{58A9944D-68E7-46C2-A25E-37413AD8CAFE}.Debug|x64.ActiveCfg = Debug|x64
 		{58A9944D-68E7-46C2-A25E-37413AD8CAFE}.Debug|x64.Build.0 = Debug|x64
 		{58A9944D-68E7-46C2-A25E-37413AD8CAFE}.Debug|x86.ActiveCfg = Debug|Win32
-		{58A9944D-68E7-46C2-A25E-37413AD8CAFE}.Debug|x86.Build.0 = Debug|Win32
 		{58A9944D-68E7-46C2-A25E-37413AD8CAFE}.Release|x64.ActiveCfg = Release|x64
 		{58A9944D-68E7-46C2-A25E-37413AD8CAFE}.Release|x64.Build.0 = Release|x64
 		{58A9944D-68E7-46C2-A25E-37413AD8CAFE}.Release|x86.ActiveCfg = Release|Win32
 		{58A9944D-68E7-46C2-A25E-37413AD8CAFE}.Release|x86.Build.0 = Release|Win32
+		{945CF87B-E2C6-48E6-A418-9F698CC3761E}.Debug|x64.ActiveCfg = Debug|x64
+		{945CF87B-E2C6-48E6-A418-9F698CC3761E}.Debug|x64.Build.0 = Debug|x64
+		{945CF87B-E2C6-48E6-A418-9F698CC3761E}.Debug|x86.ActiveCfg = Debug|Win32
+		{945CF87B-E2C6-48E6-A418-9F698CC3761E}.Debug|x86.Build.0 = Debug|Win32
+		{945CF87B-E2C6-48E6-A418-9F698CC3761E}.Release|x64.ActiveCfg = Release|x64
+		{945CF87B-E2C6-48E6-A418-9F698CC3761E}.Release|x64.Build.0 = Release|x64
+		{945CF87B-E2C6-48E6-A418-9F698CC3761E}.Release|x86.ActiveCfg = Release|Win32
+		{945CF87B-E2C6-48E6-A418-9F698CC3761E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
