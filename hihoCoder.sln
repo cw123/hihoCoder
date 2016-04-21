@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hiho93周_数论二·Eular�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1051_补提交卡", "1051_补提交卡\1051_补提交卡.vcxproj", "{7571F36A-1EAA-47B8-A7EE-FE09FCB516C9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "数论三·约瑟夫问题", "数论三·约瑟夫问题\数论三·约瑟夫问题.vcxproj", "{B916B7ED-D32D-4C77-90A8-37266E9BDD0E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -52,11 +54,18 @@ Global
 		{7571F36A-1EAA-47B8-A7EE-FE09FCB516C9}.Debug|x64.ActiveCfg = Debug|x64
 		{7571F36A-1EAA-47B8-A7EE-FE09FCB516C9}.Debug|x64.Build.0 = Debug|x64
 		{7571F36A-1EAA-47B8-A7EE-FE09FCB516C9}.Debug|x86.ActiveCfg = Debug|Win32
-		{7571F36A-1EAA-47B8-A7EE-FE09FCB516C9}.Debug|x86.Build.0 = Debug|Win32
 		{7571F36A-1EAA-47B8-A7EE-FE09FCB516C9}.Release|x64.ActiveCfg = Release|x64
 		{7571F36A-1EAA-47B8-A7EE-FE09FCB516C9}.Release|x64.Build.0 = Release|x64
 		{7571F36A-1EAA-47B8-A7EE-FE09FCB516C9}.Release|x86.ActiveCfg = Release|Win32
 		{7571F36A-1EAA-47B8-A7EE-FE09FCB516C9}.Release|x86.Build.0 = Release|Win32
+		{B916B7ED-D32D-4C77-90A8-37266E9BDD0E}.Debug|x64.ActiveCfg = Debug|x64
+		{B916B7ED-D32D-4C77-90A8-37266E9BDD0E}.Debug|x64.Build.0 = Debug|x64
+		{B916B7ED-D32D-4C77-90A8-37266E9BDD0E}.Debug|x86.ActiveCfg = Debug|Win32
+		{B916B7ED-D32D-4C77-90A8-37266E9BDD0E}.Debug|x86.Build.0 = Debug|Win32
+		{B916B7ED-D32D-4C77-90A8-37266E9BDD0E}.Release|x64.ActiveCfg = Release|x64
+		{B916B7ED-D32D-4C77-90A8-37266E9BDD0E}.Release|x64.Build.0 = Release|x64
+		{B916B7ED-D32D-4C77-90A8-37266E9BDD0E}.Release|x86.ActiveCfg = Release|Win32
+		{B916B7ED-D32D-4C77-90A8-37266E9BDD0E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
